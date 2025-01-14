@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Faisal Hayat",
+      "username": "11192656",
+      "email": "hayatfaisal355@gmail.com",
+      "phone": "8969753445",
+      "id": 1
+    },
+    {
+      "name": "Hayat ",
+      "username": "Hayat Faisal",
+      "email": "faisal@gmail.com",
+      "phone": "9661980042",
+      "id": 2
+    }
+  ]
+}
