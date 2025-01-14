@@ -13,6 +13,13 @@
       "email": "faisal@gmail.com",
       "phone": "9661980042",
       "id": 2
+    },
+    {
+      "name": "Alexa",
+      "username": "Alexa John",
+      "email": "alexa@gmail.com",
+      "phone": "8975354125",
+      "id": 3
     }
   ]
 }
